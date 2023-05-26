@@ -4,10 +4,7 @@
  */
 package mylibs;
 import models.Person;
-/**
- *
- * @author Dell
- */
+
 public class PersonController {
     public Person f1(Person person){
         person.pid++;

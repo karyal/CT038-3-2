@@ -5,10 +5,7 @@
 package week4;
 import models.Person;
 import mylibs.PersonController;
-/**
- *
- * @author Dell
- */
+
 public class PersonTest {
     public static void main(String []args){
         Person obj1 = new Person();
